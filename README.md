@@ -29,9 +29,6 @@ Este projeto é uma aplicação de interface gráfica feita com **Java Swing**, 
 ## 🖼️ Imagens do Projeto
 
 ### Tela de Login
-
-
+[img tela de login](https://github.com/user-attachments/assets/aa62b73a-eddc-44b6-be32-8fc54a8dbc0c)
+[img tela de cadastro](https://github.com/user-attachments/assets/aa62b73a-eddc-44b6-be32-8fc54a8dbc0c)
 ---
-
-## 📁 Estrutura de Pacotes
-
