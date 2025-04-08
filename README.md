@@ -1,34 +1,32 @@
 # 🧑‍💻 Tela de Login e Cadastro - Java Swing
 
-Este projeto é uma aplicação de interface gráfica feita com **Java Swing**, que simula um sistema de login e cadastro de usuários, com integração a banco de dados via `DAO` e `DTO`.
+Este projeto é uma aplicação de interface gráfica desenvolvida em **Java Swing**, simulando um sistema de login e cadastro de usuários, com integração ao banco de dados utilizando os padrões `DAO` e `DTO`.
 
 ---
 
 ## 🎯 Funcionalidades
 
-✅ Tela de Login  
-✅ Tela de Cadastro  
-✅ Validação de campos vazios  
-✅ Validação de senha com mínimo de 8 caracteres  
-✅ Integração com banco de dados (via `UsuarioDAO`)  
-✅ Navegação entre as telas  
-✅ Estilo moderno com design escuro  
+- ✅ Tela de Login  
+- ✅ Tela de Cadastro  
+- ✅ Validação de campos vazios  
+- ✅ Verificação de senha com no mínimo 8 caracteres  
+- ✅ Integração com banco de dados via `UsuarioDAO`  
+- ✅ Navegação entre as telas  
+- ✅ Interface moderna com tema escuro  
 
 ---
 
-## 💡 Tecnologias
+## 💡 Tecnologias Utilizadas
 
-- Java SE
-- Swing (Javax Swing)
-- Programação orientada a objetos (POO)
+- Java SE  
+- Swing (`javax.swing`)  
+- Programação Orientada a Objetos (POO)  
 - JDBC (com DAO e DTO)
 
 ---
 
+## 🚀 Como executar
 
-## 🖼️ Imagens do Projeto
-
-### Tela de Login
-[img tela de login](https://github.com/user-attachments/assets/aa62b73a-eddc-44b6-be32-8fc54a8dbc0c)
-[img tela de cadastro](https://github.com/user-attachments/assets/aa62b73a-eddc-44b6-be32-8fc54a8dbc0c)
----
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
